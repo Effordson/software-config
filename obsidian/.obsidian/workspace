@@ -1,0 +1,188 @@
+{
+  "main": {
+    "id": "7713581083c9447c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4520ee629edf7efd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "t.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80adb552de5c2a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3255e14891cdfae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c9ca71a23ae04fe",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "t.md"
+              }
+            }
+          },
+          {
+            "id": "5bf3e4fc8eb35403",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "19a19f56bba6870e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8410bc428af50573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 292
+  },
+  "right": {
+    "id": "aa05a6fa7aa319d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc9d0d11df5d6d6",
+        "type": "tabs",
+        "dimension": 29.896907216494846,
+        "children": [
+          {
+            "id": "86bd803789541a3b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "t.md"
+              }
+            }
+          },
+          {
+            "id": "c7ae846345f4c730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "9229d36b4addfd24",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "t.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "0dc866efb481ae3e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "t.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d6f027dd7b4b6d0d",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "6333e3c57abc4d45",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5d353c4c07911cc9",
+        "type": "tabs",
+        "dimension": 70.10309278350515,
+        "children": [
+          {
+            "id": "e81ae03721c28982",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243,
+    "collapsed": true
+  },
+  "active": "4520ee629edf7efd",
+  "lastOpenFiles": [
+    "t.md",
+    "测试笔记.md",
+    "Python练习题100.md",
+    "template/会议模板.md",
+    "www.baidu.com.md",
+    "Docker基础篇之快速上手.md",
+    "mindmap.md",
+    "Day Planners/Day Planner-20220404.md",
+    "README.md",
+    "Workbench.md"
+  ]
+}

@@ -1,0 +1,207 @@
+{
+  "editor:toggle-code": [],
+  "workspace:toggle-pin": [],
+  "editor:rename-heading": [],
+  "tag-pane:open": [],
+  "editor:attach-file": [],
+  "editor:insert-link": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:insert-wikilink": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "L"
+    }
+  ],
+  "editor:focus-top": [],
+  "editor:focus-bottom": [],
+  "editor:focus-right": [],
+  "editor:focus-left": [],
+  "insert-current-date": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "D"
+    }
+  ],
+  "workspace:undo-close-pane": [],
+  "insert-current-time": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:toggle-source": [],
+  "editor:toggle-highlight": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "R"
+    }
+  ],
+  "outgoing-links:open": [],
+  "outgoing-links:open-for-current": [],
+  "outline:open-for-current": [],
+  "outline:open": [],
+  "slides:start": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F5"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "["
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:toggle-blockquote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Q"
+    }
+  ],
+  "editor:toggle-strikethrough": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "`"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "editor:set-heading": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "editor:cycle-list-checklist": [],
+  "app:open-settings": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "T"
+    }
+  ],
+  "daily-notes": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:insert-embed": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "I"
+    }
+  ],
+  "editor:toggle-italics": [],
+  "table-editor-obsidian:table-control-bar": [],
+  "obsidian-typora-hotkey-plugin:添加或取消键盘格式": [],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "workspace:close-others": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "W"
+    }
+  ],
+  "file-recovery:open": []
+}
