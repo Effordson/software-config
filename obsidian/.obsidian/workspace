@@ -4,11 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "4520ee629edf7efd",
+        "id": "2905e72b36c31990",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "note/LDAP/LDAP-gitlab-Jenkins.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -27,7 +31,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/LDAP/LDAP-gitlab-Jenkins.md"
+              }
             }
           },
           {
@@ -44,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "note/LDAP/LDAP-gitlab-Jenkins.md"
+              }
             }
           },
           {
@@ -109,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "note/LDAP/LDAP-gitlab-Jenkins.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "note/LDAP/LDAP-gitlab-Jenkins.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -137,33 +147,26 @@
               "type": "calendar",
               "state": {}
             }
-          },
-          {
-            "id": "6333e3c57abc4d45",
-            "type": "leaf",
-            "state": {
-              "type": "advanced-tables-toolbar",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 243,
+    "collapsed": true
   },
-  "active": "4520ee629edf7efd",
+  "active": "2905e72b36c31990",
   "lastOpenFiles": [
+    "note/LDAP/LDAP-gitlab-Jenkins.md",
+    "note/Rabbitmq/Rabbitmq.md",
+    "note/README.md",
+    "note/test.md",
+    "software-config/README.md",
+    "note/LDAP/test.md",
     "note/Python100/Python-exercise100.md",
     "note/groovy-pipeline/Jenkins-Pipeline.md",
-    "note/LDAP/LDAP-gitlab-Jenkins.md",
-    "note/README.md",
     "t.md",
-    "测试笔记.md",
-    "Python练习题100.md",
-    "template/会议模板.md",
-    "www.baidu.com.md",
-    "Docker基础篇之快速上手.md"
+    "测试笔记.md"
   ]
 }

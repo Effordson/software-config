@@ -8,9 +8,11 @@
   "file-explorer-note-count",
   "obsidian-hotkeys-for-specific-files",
   "obsidian-image-toolkit",
-  "markdown-table-editor",
-  "number-headings-obsidian",
   "quick-explorer",
   "recent-files-obsidian",
-  "remember-cursor-position"
+  "remember-cursor-position",
+  "obsidian-dynamic-toc",
+  "obsidian-tabs",
+  "number-headings-obsidian",
+  "markdown-table-editor"
 ]

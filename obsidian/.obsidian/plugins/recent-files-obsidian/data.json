@@ -1,20 +1,28 @@
 {
   "recentFiles": [
     {
+      "basename": "LDAP-gitlab-Jenkins",
+      "path": "note/LDAP/LDAP-gitlab-Jenkins.md"
+    },
+    {
+      "basename": "Rabbitmq",
+      "path": "note/Rabbitmq/Rabbitmq.md"
+    },
+    {
+      "basename": "README",
+      "path": "note/README.md"
+    },
+    {
+      "basename": "README",
+      "path": "software-config/README.md"
+    },
+    {
       "basename": "Python-exercise100",
       "path": "note/Python100/Python-exercise100.md"
     },
     {
       "basename": "Jenkins-Pipeline",
       "path": "note/groovy-pipeline/Jenkins-Pipeline.md"
-    },
-    {
-      "basename": "LDAP-gitlab-Jenkins",
-      "path": "note/LDAP/LDAP-gitlab-Jenkins.md"
-    },
-    {
-      "basename": "README",
-      "path": "note/README.md"
     }
   ],
   "omittedPaths": [],
