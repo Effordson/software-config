@@ -7,12 +7,8 @@
         "id": "4520ee629edf7efd",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "t.md",
-            "mode": "source",
-            "source": false
-          }
+          "type": "empty",
+          "state": {}
         }
       }
     ],
@@ -31,9 +27,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "t.md"
-              }
+              "state": {}
             }
           },
           {
@@ -66,6 +60,14 @@
               "type": "file-explorer",
               "state": {}
             }
+          },
+          {
+            "id": "e14942c0ed2d4dc5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
           }
         ],
         "currentTab": 3
@@ -81,16 +83,13 @@
       {
         "id": "bdc9d0d11df5d6d6",
         "type": "tabs",
-        "dimension": 29.896907216494846,
         "children": [
           {
             "id": "86bd803789541a3b",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "t.md"
-              }
+              "state": {}
             }
           },
           {
@@ -110,7 +109,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "t.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -122,7 +120,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "t.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -150,39 +147,23 @@
             }
           }
         ],
-        "currentTab": 2
-      },
-      {
-        "id": "5d353c4c07911cc9",
-        "type": "tabs",
-        "dimension": 70.10309278350515,
-        "children": [
-          {
-            "id": "e81ae03721c28982",
-            "type": "leaf",
-            "state": {
-              "type": "timeline",
-              "state": {}
-            }
-          }
-        ]
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
   "active": "4520ee629edf7efd",
   "lastOpenFiles": [
+    "note/Python100/Python-exercise100.md",
+    "note/groovy-pipeline/Jenkins-Pipeline.md",
+    "note/LDAP/LDAP-gitlab-Jenkins.md",
+    "note/README.md",
     "t.md",
     "测试笔记.md",
     "Python练习题100.md",
     "template/会议模板.md",
     "www.baidu.com.md",
-    "Docker基础篇之快速上手.md",
-    "mindmap.md",
-    "Day Planners/Day Planner-20220404.md",
-    "README.md",
-    "Workbench.md"
+    "Docker基础篇之快速上手.md"
   ]
 }

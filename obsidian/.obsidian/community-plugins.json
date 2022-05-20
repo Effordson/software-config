@@ -1,8 +1,16 @@
 [
-  "ProxyGithub",
   "calendar-beta",
-  "obsidian-day-planner",
   "table-editor-obsidian",
   "obsidian-typora-hotkey-plugin",
-  "obsidian-icon-folder"
+  "obsidian-icon-folder",
+  "obsidian-code-block-enhancer",
+  "obsidian-collapse-all-plugin",
+  "file-explorer-note-count",
+  "obsidian-hotkeys-for-specific-files",
+  "obsidian-image-toolkit",
+  "markdown-table-editor",
+  "number-headings-obsidian",
+  "quick-explorer",
+  "recent-files-obsidian",
+  "remember-cursor-position"
 ]

@@ -175,7 +175,14 @@
       "key": "I"
     }
   ],
-  "editor:toggle-italics": [],
+  "editor:toggle-italics": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "I"
+    }
+  ],
   "table-editor-obsidian:table-control-bar": [],
   "obsidian-typora-hotkey-plugin:添加或取消键盘格式": [],
   "app:go-forward": [
@@ -203,5 +210,31 @@
       "key": "W"
     }
   ],
-  "file-recovery:open": []
+  "file-recovery:open": [],
+  "obsidian-typora-hotkey-plugin:倾斜": [],
+  "editor:fold-all": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "J"
+    }
+  ],
+  "editor:unfold-all": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "J"
+    }
+  ],
+  "quick-explorer:browse-current": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "E"
+    }
+  ]
 }
