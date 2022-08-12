@@ -236,5 +236,21 @@
       ],
       "key": "E"
     }
+  ],
+  "obsidian-full-calendar:full-calendar-open": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "C"
+    }
+  ],
+  "obsidian-admonition:insert-callout": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "N"
+    }
   ]
 }
