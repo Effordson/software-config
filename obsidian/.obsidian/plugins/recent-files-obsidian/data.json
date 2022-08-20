@@ -1,6 +1,18 @@
 {
   "recentFiles": [
     {
+      "basename": "obsidian配置",
+      "path": "obsidian配置.md"
+    },
+    {
+      "basename": "simple-template",
+      "path": "template/simple-template.md"
+    },
+    {
+      "basename": "front-matter",
+      "path": "template/front-matter.md"
+    },
+    {
       "basename": "LDAP-gitlab-Jenkins",
       "path": "note/LDAP/LDAP-gitlab-Jenkins.md"
     },

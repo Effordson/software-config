@@ -7,8 +7,12 @@
         "id": "2905e72b36c31990",
         "type": "leaf",
         "state": {
-          "type": "empty",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "obsidian配置.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -27,7 +31,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian配置.md"
+              }
             }
           },
           {
@@ -89,7 +95,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "obsidian配置.md"
+              }
             }
           },
           {
@@ -109,6 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "obsidian配置.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -120,6 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "obsidian配置.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,20 +153,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 243,
-    "collapsed": true
+    "width": 243
   },
-  "active": "8410bc428af50573",
+  "active": "2905e72b36c31990",
   "lastOpenFiles": [
+    "obsidian配置.md",
+    "template/simple-template.md",
+    "template/front-matter.md",
     "note/LDAP/LDAP-gitlab-Jenkins.md",
     "note/Rabbitmq/Rabbitmq.md",
     "note/README.md",
     "note/test.md",
     "software-config/README.md",
     "note/LDAP/test.md",
-    "note/Python100/Python-exercise100.md",
-    "note/groovy-pipeline/Jenkins-Pipeline.md",
-    "t.md",
-    "测试笔记.md"
+    "note/Python100/Python-exercise100.md"
   ]
 }

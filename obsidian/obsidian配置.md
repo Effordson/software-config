@@ -8,13 +8,11 @@
 
 ```
 ---
-title: tags
-date: 
+date: {{date:YYYY-MM-DD HH:mm}}
 tags:
-- tag1
-- tag2
-aliases:
-- alias1
+- tag
+aliases: 
+- alias
 ---
 ```
 
@@ -42,8 +40,8 @@ aliases:
 删除段落：Ctrl+D
 所有文件中搜索：Ctrl+Shift+F
 删除线：Ctrl+`
-有序列表：Ctrl+Shift+[
-无序列表：Ctrl+Shift+]
+有序列表：`Ctrl+Shift+[`
+无序列表：`Ctrl+Shift+]`
 新建笔记：Ctrl+N
 引用：Ctrl+Q
 上下行互换：Alt+上键/下键
