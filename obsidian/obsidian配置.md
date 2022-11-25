@@ -254,6 +254,8 @@ dailynote目录：存放日记
 
 images目录：存放图片及其他新增附件
 
-
-
 文件都自动保存有快照，可以选择恢复
+
+Obsidian 插件之 Dataview：https://sspai.com/post/68183
+
+用 Git 在 Android 和 Windows 间同步 Obsidian 数据库：https://sspai.com/post/68989
