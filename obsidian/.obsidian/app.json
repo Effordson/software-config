@@ -20,8 +20,8 @@
   "newFileLocation": "current",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./images",
-  "showUnsupportedFiles": false,
-  "promptDelete": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": true,
   "newFileFolderPath": "/.assets",
   "newLinkFormat": "relative",
   "pdfExportSettings": {
@@ -32,5 +32,8 @@
   },
   "userIgnoreFilters": [
     "software-config/"
-  ]
+  ],
+  "fileSortOrder": "alphabetical",
+  "foldHeading": true,
+  "showInlineTitle": false
 }

@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "7713581083c9447c",
+    "type": "split",
+    "children": [
+      {
+        "id": "05cf1144a6384868",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f4c27434816b0047",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "d803e9c80d3e5fc2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "template/会议模板.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80adb552de5c2a5d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3255e14891cdfae0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5bf3e4fc8eb35403",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          },
+          {
+            "id": "19a19f56bba6870e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "06aec2941341bff8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "e14942c0ed2d4dc5",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 262.5
+  },
+  "right": {
+    "id": "aa05a6fa7aa319d3",
+    "type": "split",
+    "children": [
+      {
+        "id": "bdc9d0d11df5d6d6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "aa98cd254d594b39",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "template/会议模板.md"
+              }
+            }
+          },
+          {
+            "id": "c7ae846345f4c730",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "121da2640ba54859",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "b06bbbfb2f62294d",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          },
+          {
+            "id": "2d6d0164f7e6eb62",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "template/会议模板.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3f5dce8d0521096e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "template/会议模板.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "markdown-importer:打开 Markdown 格式转换器": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
+      "command-palette:打开命令面板": false,
+      "workspaces:管理工作区布局": false,
+      "markdown-table-editor:Open Markdown Table Editor": false,
+      "obsidian-projects:Open projects": false
+    }
+  },
+  "active": "d803e9c80d3e5fc2",
+  "lastOpenFiles": [
+    "template/日记模板.md",
+    "template/front-matter.md",
+    "Day Planners/Day Planner-20230128.md",
+    "note/其他/obsidian插件.md",
+    "note/其他/测试dataview.md",
+    "note/其他/测试1.md",
+    "note/其他/测试2.md",
+    "dailynote/2023/一月/2023-01-29.md",
+    "youdao-note/我的资源/云计算/10-Redis集群和扩容收缩节点及数据迁移.md",
+    "template/会议模板.md"
+  ]
+}

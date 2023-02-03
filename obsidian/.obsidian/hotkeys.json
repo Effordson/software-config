@@ -1,5 +1,4 @@
 {
-  "editor:toggle-code": [],
   "workspace:toggle-pin": [],
   "editor:rename-heading": [],
   "tag-pane:open": [],
@@ -252,5 +251,36 @@
       ],
       "key": "N"
     }
-  ]
+  ],
+  "editor:toggle-code": [],
+  "obsidian-typora-hotkey-plugin:添加或取消行代码格式": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "`"
+    }
+  ],
+  "workspace:close-window": [],
+  "editor:toggle-checklist-status": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Enter"
+    }
+  ],
+  "workspace:goto-tab-1": [],
+  "workspace:goto-tab-2": [],
+  "workspace:goto-tab-3": [],
+  "workspace:goto-tab-4": [],
+  "workspace:goto-tab-5": [],
+  "workspace:goto-tab-6": [],
+  "note-composer:merge-file": [],
+  "editor:open-link-in-new-leaf": [],
+  "file-explorer:move-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "easy-typing-obsidian:easy-typing-format-switch": [],
+  "easy-typing-obsidian:easy-typing-format-selection": [],
+  "easy-typing-obsidian:easy-typing-delete-blank-line": []
 }

@@ -1,5 +1,5 @@
 {
-  "baseFontSize": 14,
+  "baseFontSize": 15,
   "theme": "moonstone",
   "translucency": false,
   "cssTheme": "Blue Topaz",
@@ -9,5 +9,8 @@
   ],
   "interfaceFontFamily": "Arial",
   "textFontFamily": "Arial",
-  "monospaceFontFamily": "Arial"
+  "monospaceFontFamily": "Arial",
+  "accentColor": "",
+  "showViewHeader": true,
+  "nativeMenus": true
 }

@@ -1,8 +1,11 @@
 ---
-date: {{date:YYYY-MM-DD HH:mm}}
+date: {{date:YYY-MM-DD}} {{time:HH:MM}}
 tags:
-- tag
+- none
 aliases: 
+type:
+status: 
+link:
 ---
 
 

@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "2905e72b36c31990",
+        "id": "f8de7e8e38f5728f",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "obsidian配置.md",
-            "mode": "source",
+            "file": "测试.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -32,7 +32,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian配置.md"
+                "file": "测试.md"
               }
             }
           },
@@ -50,7 +50,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "path:template",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -80,7 +80,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 292
+    "width": 279
   },
   "right": {
     "id": "aa05a6fa7aa319d3",
@@ -96,7 +96,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "obsidian配置.md"
+                "file": "测试.md"
               }
             }
           },
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "obsidian配置.md",
+                "file": "测试.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -129,7 +129,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "obsidian配置.md",
+                "file": "测试.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -148,24 +148,22 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 243
+    "width": 259
   },
-  "active": "2905e72b36c31990",
+  "active": "f8de7e8e38f5728f",
   "lastOpenFiles": [
-    "obsidian配置.md",
-    "template/simple-template.md",
+    "测试.md",
+    "template/template2.md",
     "template/front-matter.md",
-    "note/LDAP/LDAP-gitlab-Jenkins.md",
-    "note/Rabbitmq/Rabbitmq.md",
-    "note/README.md",
-    "note/test.md",
-    "software-config/README.md",
-    "note/LDAP/test.md",
-    "note/Python100/Python-exercise100.md"
+    "youdao-note/Python知识/VS Code配置Pipeline插件及配置.md",
+    "note/其他/deepin-20.7.1使用笔记.md",
+    "note/其他/Markmind插件.md",
+    "youdao-note/拓展知识点/Ubuntu16搭建FTP和obsidian图床.md",
+    "youdao-note/我的资源/Shell编程和代码上线/1 Git与GitHub及gitlab代码托管服务器.md",
+    "template/ceshi.md"
   ]
 }

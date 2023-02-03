@@ -1,42 +1,19 @@
 {
   "recentFiles": [
     {
-      "basename": "obsidian配置",
-      "path": "obsidian配置.md"
+      "basename": "会议模板",
+      "path": "template/会议模板.md"
     },
     {
-      "basename": "simple-template",
-      "path": "template/simple-template.md"
+      "basename": "日记模板",
+      "path": "template/日记模板.md"
     },
     {
       "basename": "front-matter",
       "path": "template/front-matter.md"
-    },
-    {
-      "basename": "LDAP-gitlab-Jenkins",
-      "path": "note/LDAP/LDAP-gitlab-Jenkins.md"
-    },
-    {
-      "basename": "Rabbitmq",
-      "path": "note/Rabbitmq/Rabbitmq.md"
-    },
-    {
-      "basename": "README",
-      "path": "note/README.md"
-    },
-    {
-      "basename": "README",
-      "path": "software-config/README.md"
-    },
-    {
-      "basename": "Python-exercise100",
-      "path": "note/Python100/Python-exercise100.md"
-    },
-    {
-      "basename": "Jenkins-Pipeline",
-      "path": "note/groovy-pipeline/Jenkins-Pipeline.md"
     }
   ],
   "omittedPaths": [],
-  "maxLength": null
+  "maxLength": null,
+  "openType": "tab"
 }
