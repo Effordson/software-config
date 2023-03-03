@@ -8,7 +8,7 @@
   "protocol": "jump-to-pdf",
   "registerPdfEvent": true,
   "viewerTheme": 2,
-  "mindmapmode": "basic",
+  "mindmapmode": "rich",
   "parseMindMap": true,
   "annotateTop": 0,
   "annotateBottom": 0,
