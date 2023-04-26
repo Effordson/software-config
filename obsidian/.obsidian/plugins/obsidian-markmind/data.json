@@ -1,21 +1,19 @@
 {
-  "canvasSize": 4000,
+  "canvasSize": 8000,
   "headLevel": 2,
-  "fontSize": 12,
+  "fontSize": 16,
   "background": "transparent",
   "layout": "mindmap",
   "layoutDirect": "right",
   "protocol": "jump-to-pdf",
   "registerPdfEvent": true,
-  "viewerTheme": 2,
+  "viewerTheme": 1,
   "mindmapmode": "rich",
   "parseMindMap": true,
   "annotateTop": 0,
   "annotateBottom": 0,
   "useCustomShortcut": false,
   "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
-  "uid": "00p01001001101100o01001300s01301300o012",
-  "setup": 1667707056853,
-  "openProtocol": 1,
-  "useAnimate": true
+  "uid": "00p01001101201201200s00q01200q00q01200r",
+  "setup": 1679241500541
 }

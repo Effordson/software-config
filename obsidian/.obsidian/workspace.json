@@ -4,31 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "05cf1144a6384868",
+        "id": "d2706964081f8534",
         "type": "tabs",
         "children": [
           {
-            "id": "f4c27434816b0047",
+            "id": "a37c0e54d6af59df",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "d803e9c80d3e5fc2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "template/会议模板.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -58,14 +45,14 @@
                 "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
-                "collapseAll": false,
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
               }
             }
           },
           {
-            "id": "06aec2941341bff8",
+            "id": "4f06f6dfea36e26a",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -81,13 +68,21 @@
               "type": "recent-files",
               "state": {}
             }
+          },
+          {
+            "id": "ba3df2421f431aba",
+            "type": "leaf",
+            "state": {
+              "type": "book-explorer-view",
+              "state": {}
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 222.50418853759766
   },
   "right": {
     "id": "aa05a6fa7aa319d3",
@@ -98,13 +93,11 @@
         "type": "tabs",
         "children": [
           {
-            "id": "aa98cd254d594b39",
+            "id": "cd1f8cdde2bc9911",
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "template/会议模板.md"
-              }
+              "state": {}
             }
           },
           {
@@ -127,7 +120,7 @@
             }
           },
           {
-            "id": "b06bbbfb2f62294d",
+            "id": "93bfee6e0436e872",
             "type": "leaf",
             "state": {
               "type": "reminder-list",
@@ -140,7 +133,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "template/会议模板.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -157,45 +149,84 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "template/会议模板.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 208.5
   },
   "left-ribbon": {
     "hiddenItems": {
+      "homepage:Open homepage": false,
+      "obsidian-booknote-plugin:书库": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
-      "canvas:Create new canvas": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "markdown-importer:打开 Markdown 格式转换器": false,
-      "obsidian-full-calendar:Open Full Calendar": false,
       "command-palette:打开命令面板": false,
       "workspaces:管理工作区布局": false,
+      "canvas:新建白板": false,
+      "obsidian-full-calendar:Open Full Calendar": false,
       "markdown-table-editor:Open Markdown Table Editor": false,
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "d803e9c80d3e5fc2",
+  "active": "4f06f6dfea36e26a",
   "lastOpenFiles": [
-    "template/日记模板.md",
-    "template/front-matter.md",
-    "Day Planners/Day Planner-20230128.md",
+    "software-config/obsidian/snippets/【自定义】mytools 样式.css",
+    "software-config/obsidian/snippets",
+    "note/其他/Gerrit 3.X安装和配置Nginx代理.md",
+    "youdao-note/我的资源/Shell编程和代码上线/shell概述.md",
     "note/其他/obsidian插件.md",
-    "note/其他/测试dataview.md",
-    "note/其他/测试1.md",
-    "note/其他/测试2.md",
-    "dailynote/2023/一月/2023-01-29.md",
-    "youdao-note/我的资源/云计算/10-Redis集群和扩容收缩节点及数据迁移.md",
-    "template/会议模板.md"
+    "测试文档/测试.md",
+    "dailynote/2023/四月/2023-04-27.md",
+    "dailynote/常用工具.md",
+    "测试文档/images/测试-20230427003809.png",
+    "dailynote/button.md",
+    "dailynote/2023/四月/2023-04-26.md",
+    "note/其他/images/obsidian插件-20230427002962.png",
+    "note/其他/images/obsidian插件-20230427002135.png",
+    "dailynote/2023/四月/2023-04-25.md",
+    "dailynote/2023/四月",
+    "测试文档/clipper/Obsidian 插件之 Dataview - 少数派.md",
+    "测试文档/Untitled Diagram 1.svg",
+    "测试文档/clipper/Obsidian Clipper.md",
+    "note/其他/PostGreSQL.md",
+    "youdao-note/我的资源/数据库/01-课程大纲及mysql介绍和安装-用户管理.md",
+    "youdao-note/我的资源/综合架构/虚拟模板机安装和优化.md",
+    "note/其他/images/PostGreSQL-20230423233108.png",
+    "note/其他/images/PostGreSQL-20230423232308.png",
+    "note/其他/images/PostGreSQL-20230423232047.png",
+    "note/其他/images/PostGreSQL-20230423231725.png",
+    "note/其他/images/PostGreSQL-20230423230461.png",
+    "note/其他/images/PostGreSQL-20230423225394.png",
+    "youdao-note/我的资源/基础知识/1.2-服务器概述和虚拟机安装.md",
+    "note/其他/工具汇总.md",
+    "youdao-note/我的资源/命令总结/tput 命令.md",
+    "youdao-note/拓展知识点/shell输入输出.md",
+    "note/LDAP/LDAP-gitlab-Jenkins.md",
+    "youdao-note/我的资源/Shell编程和代码上线/1 Git与GitHub及gitlab代码托管服务器.md",
+    "youdao-note/我的资源/Shell编程和代码上线/shell基础语法.md",
+    "youdao-note/拓展知识点/lvs实现负载均衡.md",
+    "youdao-note/我的资源/命令总结/tcpdump命令.md",
+    "测试文档/clipper/2023-04-01.md",
+    "测试文档/clipper/世界第一！腾讯云数据库 TDSQL 登顶 TPC-C 榜，刷新全球纪录！_CSDN资讯的博客-CSDN博客.md",
+    "测试文档/images/text_1.txt",
+    "未命名.canvas",
+    "测试文档/clipper",
+    "测试文档/simpread-configReplication Configuration.html",
+    "未命名 1.canvas",
+    "dailynote/2023/三月",
+    "测试文档/测试白板.canvas",
+    "测试文档/images",
+    "Excalidraw",
+    "note/测试文档.txt",
+    "note/新建 文本文档.txt"
   ]
 }

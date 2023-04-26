@@ -1,5 +1,206 @@
 {
-  "recentFiles": [],
+  "recentFiles": [
+    {
+      "basename": "Gerrit 3.X安装和配置Nginx代理",
+      "path": "note/其他/Gerrit 3.X安装和配置Nginx代理.md"
+    },
+    {
+      "basename": "shell概述",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/shell概述.md"
+    },
+    {
+      "basename": "obsidian插件",
+      "path": "note/其他/obsidian插件.md"
+    },
+    {
+      "basename": "测试",
+      "path": "测试文档/测试.md"
+    },
+    {
+      "basename": "2023-04-27",
+      "path": "dailynote/2023/四月/2023-04-27.md"
+    },
+    {
+      "basename": "常用工具",
+      "path": "dailynote/常用工具.md"
+    },
+    {
+      "basename": "button",
+      "path": "dailynote/button.md"
+    },
+    {
+      "basename": "2023-04-26",
+      "path": "dailynote/2023/四月/2023-04-26.md"
+    },
+    {
+      "basename": "2023-04-25",
+      "path": "dailynote/2023/四月/2023-04-25.md"
+    },
+    {
+      "basename": "Obsidian 插件之 Dataview - 少数派",
+      "path": "测试文档/clipper/Obsidian 插件之 Dataview - 少数派.md"
+    },
+    {
+      "basename": "Untitled Diagram 1",
+      "path": "测试文档/Untitled Diagram 1.svg"
+    },
+    {
+      "basename": "Obsidian Clipper",
+      "path": "测试文档/clipper/Obsidian Clipper.md"
+    },
+    {
+      "basename": "PostGreSQL",
+      "path": "note/其他/PostGreSQL.md"
+    },
+    {
+      "basename": "01-课程大纲及mysql介绍和安装-用户管理",
+      "path": "youdao-note/我的资源/数据库/01-课程大纲及mysql介绍和安装-用户管理.md"
+    },
+    {
+      "basename": "虚拟模板机安装和优化",
+      "path": "youdao-note/我的资源/综合架构/虚拟模板机安装和优化.md"
+    },
+    {
+      "basename": "1.2-服务器概述和虚拟机安装",
+      "path": "youdao-note/我的资源/基础知识/1.2-服务器概述和虚拟机安装.md"
+    },
+    {
+      "basename": "工具汇总",
+      "path": "note/其他/工具汇总.md"
+    },
+    {
+      "basename": "tput 命令",
+      "path": "youdao-note/我的资源/命令总结/tput 命令.md"
+    },
+    {
+      "basename": "shell输入输出",
+      "path": "youdao-note/拓展知识点/shell输入输出.md"
+    },
+    {
+      "basename": "LDAP-gitlab-Jenkins",
+      "path": "note/LDAP/LDAP-gitlab-Jenkins.md"
+    },
+    {
+      "basename": "1 Git与GitHub及gitlab代码托管服务器",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/1 Git与GitHub及gitlab代码托管服务器.md"
+    },
+    {
+      "basename": "shell基础语法",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/shell基础语法.md"
+    },
+    {
+      "basename": "lvs实现负载均衡",
+      "path": "youdao-note/拓展知识点/lvs实现负载均衡.md"
+    },
+    {
+      "basename": "tcpdump命令",
+      "path": "youdao-note/我的资源/命令总结/tcpdump命令.md"
+    },
+    {
+      "basename": "2023-04-01",
+      "path": "测试文档/clipper/2023-04-01.md"
+    },
+    {
+      "basename": "世界第一！腾讯云数据库 TDSQL 登顶 TPC-C 榜，刷新全球纪录！_CSDN资讯的博客-CSDN博客",
+      "path": "测试文档/clipper/世界第一！腾讯云数据库 TDSQL 登顶 TPC-C 榜，刷新全球纪录！_CSDN资讯的博客-CSDN博客.md"
+    },
+    {
+      "basename": "用 Git 在 Android 和 Windows 间同步 Obsidian 数据库 - 少数派",
+      "path": "测试文档/clipper/用 Git 在 Android 和 Windows 间同步 Obsidian 数据库 - 少数派.md"
+    },
+    {
+      "basename": "​GPT-4 还没玩透，下半年可能发布的 GPT-5 会有什么样的能力？_CSDN资讯的博客-CSDN博客",
+      "path": "测试文档/clipper/​GPT-4 还没玩透，下半年可能发布的 GPT-5 会有什么样的能力？_CSDN资讯的博客-CSDN博客.md"
+    },
+    {
+      "basename": "CentOS 7安装Gerrit 2.14.6",
+      "path": "youdao-note/拓展知识点/CentOS 7安装Gerrit 2.14.6.md"
+    },
+    {
+      "basename": "CentOS 7安装Gerrit+LDAP认证",
+      "path": "youdao-note/拓展知识点/CentOS 7安装Gerrit+LDAP认证.md"
+    },
+    {
+      "basename": "Nginx常用模块",
+      "path": "youdao-note/我的资源/综合架构/Nginx常用模块.md"
+    },
+    {
+      "basename": "shell脚本实例",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/shell脚本实例.md"
+    },
+    {
+      "basename": "Shell 中各种括号的作用",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/Shell 中各种括号的作用.md"
+    },
+    {
+      "basename": "Shell 脚本中的 exit 状态解释",
+      "path": "youdao-note/我的资源/Shell编程和代码上线/Shell 脚本中的 exit 状态解释.md"
+    },
+    {
+      "basename": "内网服务器上外网和外网访问内网服务器",
+      "path": "youdao-note/拓展知识点/内网服务器上外网和外网访问内网服务器.md"
+    },
+    {
+      "basename": "05-Debian系统和Ubuntu",
+      "path": "youdao-note/我的资源/云计算/05-Debian系统和Ubuntu.md"
+    },
+    {
+      "basename": "HTTP基础",
+      "path": "youdao-note/我的资源/综合架构/HTTP基础.md"
+    },
+    {
+      "basename": "不同网段之间通信",
+      "path": "youdao-note/拓展知识点/不同网段之间通信.md"
+    },
+    {
+      "basename": "4.3-awk命令",
+      "path": "youdao-note/我的资源/基础知识/4.3-awk命令.md"
+    },
+    {
+      "basename": "5.1--umask和文件与目录的高级权限",
+      "path": "youdao-note/我的资源/基础知识/5.1--umask和文件与目录的高级权限.md"
+    },
+    {
+      "basename": "5.5-文件和目录基本权限",
+      "path": "youdao-note/我的资源/基础知识/5.5-文件和目录基本权限.md"
+    },
+    {
+      "basename": "4.5-系统安全管理和文件权限修改",
+      "path": "youdao-note/我的资源/基础知识/4.5-系统安全管理和文件权限修改.md"
+    },
+    {
+      "basename": "3.3-文件或目录属性",
+      "path": "youdao-note/我的资源/基础知识/3.3-文件或目录属性.md"
+    },
+    {
+      "basename": "2.4-软件安装和系统文件夹proc与var简析",
+      "path": "youdao-note/我的资源/基础知识/2.4-软件安装和系统文件夹proc与var简析.md"
+    },
+    {
+      "basename": "LNMP架构从入门到综合",
+      "path": "youdao-note/我的资源/综合架构/LNMP架构从入门到综合.md"
+    },
+    {
+      "basename": "未命名",
+      "path": "测试文档/未命名.md"
+    },
+    {
+      "basename": "Ubuntu16安装配置gerrit-2.14.6",
+      "path": "youdao-note/拓展知识点/Ubuntu16安装配置gerrit-2.14.6.md"
+    },
+    {
+      "basename": "(1条消息) ​GPT-4 还没玩透，下半年可能发布的 GPT-5 会有什么样的能力？_CSDN资讯的博客-CSDN博客",
+      "path": "测试文档/clipper/(1条消息) ​GPT-4 还没玩透，下半年可能发布的 GPT-5 会有什么样的能力？_CSDN资讯的博客-CSDN博客.md"
+    },
+    {
+      "basename": "Effordsonnote 笔记",
+      "path": "测试文档/clipper/Effordsonnote 笔记.md"
+    },
+    {
+      "basename": "简悦与obsidian联动",
+      "path": "测试文档/简悦与obsidian联动.md"
+    }
+  ],
   "omittedPaths": [],
   "maxLength": null,
   "openType": "tab"

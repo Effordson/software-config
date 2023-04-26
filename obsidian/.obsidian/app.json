@@ -3,7 +3,7 @@
   "livePreview": true,
   "defaultViewMode": "source",
   "readableLineLength": false,
-  "showFrontmatter": true,
+  "showFrontmatter": false,
   "foldIndent": true,
   "showLineNumber": false,
   "vimMode": false,
@@ -21,7 +21,7 @@
   "useMarkdownLinks": true,
   "attachmentFolderPath": "./images",
   "showUnsupportedFiles": true,
-  "promptDelete": true,
+  "promptDelete": false,
   "newFileFolderPath": "/.assets",
   "newLinkFormat": "relative",
   "pdfExportSettings": {

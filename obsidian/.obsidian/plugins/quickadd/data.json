@@ -1,0 +1,282 @@
+{
+  "choices": [
+    {
+      "id": "5dc17e0e-3ad4-4e83-8c4c-d00c936e4b94",
+      "name": "Capture:YAML",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "---\n创建时间: {{DATE:YYYY-MM-DD HH:mm}}\ntags: {{VALUE:python,shell,go}}\n状态: {{VALUE:😃,😊,😂}}\n---"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "c2dc1c9b-d292-4805-a11c-1c20ccca0f35",
+      "name": "Macro:每日笔记",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8fdb70c2-b6db-4cc0-8ab6-a067f1205e66"
+    },
+    {
+      "id": "0af17f4c-c549-426f-b779-68c237187aa2",
+      "name": "Macro:Test",
+      "type": "Macro",
+      "command": true,
+      "macroId": "1ae8f750-2fa3-43f2-bab9-e36505f29e78"
+    },
+    {
+      "id": "5d27474a-6c26-4325-88ae-e3e153146f40",
+      "name": "Capture:redFont",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "<font color=red size=3>请输入</font>"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "considerSubsections": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "522638c6-b86a-4921-b5ba-f05b68403dd5",
+      "name": "Template:diary",
+      "type": "Template",
+      "command": true,
+      "templatePath": "template/日记模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{DATE:YYYY-MM-DD}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "dailynote/{{DATE:YYYY}}/{{DATE:MMMM}}"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false,
+        "chooseFromSubfolders": false
+      },
+      "appendLink": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default",
+      "fileExistsMode": "Nothing",
+      "setFileExistsBehavior": true
+    },
+    {
+      "id": "69d71862-a81b-414a-b0c0-9bf493926b5c",
+      "name": "Macro:testNew",
+      "type": "Macro",
+      "command": true,
+      "macroId": "cfe3c49f-028b-496d-b400-2747a0694110"
+    }
+  ],
+  "macros": [
+    {
+      "name": "Macro:每日笔记",
+      "id": "8fdb70c2-b6db-4cc0-8ab6-a067f1205e66",
+      "commands": [
+        {
+          "name": "Template: 每日笔记",
+          "type": "NestedChoice",
+          "id": "012dfb44-6887-45be-acd3-96e5b80e5d1e",
+          "choice": {
+            "id": "d7d8fe16-b559-4826-8d35-7ede3936c608",
+            "name": "Template: 每日笔记",
+            "type": "Template",
+            "command": false,
+            "templatePath": "template/日记模板.md",
+            "fileNameFormat": {
+              "enabled": true,
+              "format": "{{DATE:YYYY-MM-DD}}"
+            },
+            "folder": {
+              "enabled": true,
+              "folders": [
+                "dailynote/{{DATE:YYYY}}/{{DATE:MMMM}}"
+              ],
+              "chooseWhenCreatingNote": false,
+              "createInSameFolderAsActiveFile": false,
+              "chooseFromSubfolders": false
+            },
+            "appendLink": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": true,
+            "openFileInMode": "default",
+            "fileExistsMode": "Nothing",
+            "setFileExistsBehavior": true
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Macro:Test",
+      "id": "1ae8f750-2fa3-43f2-bab9-e36505f29e78",
+      "commands": [
+        {
+          "name": "Capture Choice",
+          "type": "NestedChoice",
+          "id": "444865c9-ac55-45f6-ab53-4d870c6abfcb",
+          "choice": {
+            "id": "a0c7ff67-c54f-4c32-97c8-42a539b0d72c",
+            "name": "Capture Choice",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "<font color=red size=3>请输入</font>"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "Macro:testNew",
+      "id": "cfe3c49f-028b-496d-b400-2747a0694110",
+      "commands": [
+        {
+          "name": "myCapture",
+          "type": "NestedChoice",
+          "id": "250e8070-dde6-428a-ba74-6ec416e2ca35",
+          "choice": {
+            "id": "d0b08b4a-eaca-48b5-b4e4-16aa565135b3",
+            "name": "myCapture",
+            "type": "Capture",
+            "command": false,
+            "appendLink": false,
+            "captureTo": "",
+            "captureToActiveFile": true,
+            "createFileIfItDoesntExist": {
+              "enabled": false,
+              "createWithTemplate": false,
+              "template": ""
+            },
+            "format": {
+              "enabled": true,
+              "format": "<font color=red size=3>请输入</font>"
+            },
+            "insertAfter": {
+              "enabled": false,
+              "after": "",
+              "insertAtEnd": false,
+              "considerSubsections": false,
+              "createIfNotFound": false,
+              "createIfNotFoundLocation": "top"
+            },
+            "prepend": false,
+            "task": false,
+            "openFileInNewTab": {
+              "enabled": false,
+              "direction": "vertical",
+              "focus": true
+            },
+            "openFile": false,
+            "openFileInMode": "default"
+          }
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "single-line",
+  "devMode": false,
+  "templateFolderPath": "template",
+  "announceUpdates": false,
+  "version": "0.23.0",
+  "ai": {
+    "OpenAIApiKey": "",
+    "defaultModel": "Ask me",
+    "defaultSystemPrompt": "As an AI assistant within Obsidian, your primary goal is to help users manage their ideas and knowledge more effectively. Format your responses using Markdown syntax. Please use the [[Obsidian]] link format. You can write aliases for the links by writing [[Obsidian|the alias after the pipe symbol]]. To use mathematical notation, use LaTeX syntax. LaTeX syntax for larger equations should be on separate lines, surrounded with double dollar signs ($$). You can also inline math expressions by wrapping it in $ symbols. For example, use $$w_{ij}^{\text{new}}:=w_{ij}^{\text{current}}+etacdotdelta_jcdot x_{ij}$$ on a separate line, but you can write \"($eta$ = learning rate, $delta_j$ = error term, $x_{ij}$ = input)\" inline.",
+    "promptTemplatesFolderPath": "",
+    "showAssistant": true
+  },
+  "migrations": {
+    "migrateToMacroIDFromEmbeddedMacro": true,
+    "useQuickAddTemplateFolder": true,
+    "incrementFileNameSettingMoveToDefaultBehavior": true,
+    "mutualExclusionInsertAfterAndWriteToBottomOfFile": true,
+    "setVersionAfterUpdateModalRelease": true
+  }
+}
